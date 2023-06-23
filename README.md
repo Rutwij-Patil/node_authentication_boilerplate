@@ -6,7 +6,6 @@ This is a mini Node.js project that demonstrates user authentication using middl
 
 - User authentication using middleware
 - User registration and login functionality
-- Secure password storage using hashing
 - Ability to add new users
 - Ability to remove existing users
 
